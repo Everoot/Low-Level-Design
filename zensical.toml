@@ -1,5 +1,6 @@
 [project]
 site_name = "Low-Level Design"
+site_url = "https://everoot.github.io/Low-Level-Design/"
 site_description = "Popular low-level design problems: derive data structures and APIs from constraints"
 site_author = "LLD Notes"
 copyright = "Made with Everoot"
