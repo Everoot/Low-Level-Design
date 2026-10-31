@@ -11,18 +11,12 @@ site_dir = "site"
 use_directory_urls = true
 nav = [
   { "Home" = "index.md" },
-  { "Hash Maps" = [
-    { "146 · LRU Cache" = "problems/146-lru-cache.md" },
-    { "380 · Insert Delete GetRandom O(1)" = "problems/380-randomized-set.md" },
-    { "981 · Time Based Key-Value Store" = "problems/981-time-map.md" },
-  ] },
-  { "Trees & Heaps" = [
-    { "295 · Median from Data Stream" = "problems/295-median-finder.md" },
-    { "211 · Add and Search Words" = "problems/211-word-dictionary.md" },
-  ] },
-  { "Queues & Arrays" = [
-    { "933 · Number of Recent Calls" = "problems/933-recent-counter.md" },
-    { "1603 · Design Parking System" = "problems/1603-parking-system.md" },
+  { "Design Problems" = [
+    { "Pizza Pricing System" = "problems/Pizza Pricing System/Pizza Pricing System.md" },
+    { "Parking Lot" = "problems/Parking Lot/ Parking Lot.md" },
+    { "Rate Limiter" = "problems/Rate Limiter/Rate Limiter.md" },
+    { "Elevator System" = "problems/Elevator/Elevator.md" },
+    { "Locker System" = "problems/Locker/Locker.md" },
   ] },
 ]
 [project.theme]
